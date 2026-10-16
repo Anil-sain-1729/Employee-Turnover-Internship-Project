@@ -1,0 +1,16 @@
+{
+  "selected_model": "Random Forest",
+  "target": "quit",
+  "positive_class": 1,
+  "features": [
+    "satisfaction_level",
+    "last_evaluation",
+    "number_project",
+    "average_montly_hours",
+    "time_spend_company",
+    "Work_accident",
+    "promotion_last_5years",
+    "department",
+    "salary"
+  ]
+}
